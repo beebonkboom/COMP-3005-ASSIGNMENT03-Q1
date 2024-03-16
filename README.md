@@ -5,17 +5,31 @@
 
 **LINK TO VIDEO DEMO:** https://youtu.be/MXFshjI2CCA
 
-## INSTALL INSTRUCTIONS:
-- Download all files provided
-- Provided you have PostgreSQL, and pgAdmin, navigate to create a new database named 'Students' (exactly as such)
-- Once created, navigate to the query tool and open the 'studentsdatabase_queries.sql' file
-- Execute both creating student table query and populating student query (uncomment and run one by one for caution)
-- Open the given 'Application' folder files in Intellij as a project
+## Prerequisites:
+- IntelliJ IDEA (or any preferred Java IDE)
+- PgAdmin
+- Download all folders/files in the repository
 
-## LAUNCH INSTRUCTIONS:
-- Press 'run' in IntelliJ IDE to run application program
 
-## TESTING INSTRUCTIONS:
-- To test the application, run the application in the IDE and navigate the user menu as desired.
-- Input all required user information for each option in the user menu.
+## Steps:
+## 1. Setting up the Database:
+- Download the provided SQL database file.
+- Open PgAdmin and connect to your PostgreSQL server.
+- Create a new database named "Students" (exactly spelt as such).
+- Navigate to the "Query Tool" in PgAdmin.
+- Open the downloaded SQL file in the query tool.
+- Execute the queries in the SQL file individually to create the necessary tables and populate them with initial data.
+
+## 2. Setting up the Application:
+- Download the application files from the GitHub repository.
+
+## 3. Running the Application:
+- Open the project in IntelliJ IDEA.
+- Make sure your PostgreSQL server is up and running.
+- Run the main.java file in IntelliJ IDEA. This should start the application.
+
+## 4. Testing the Application:
+- Once the application is running, navigate through the user menu and options.
+- Input information as needed to test the CRUD (Create, Read, Update, Delete) operations of the application.
+- Verify that the application functions as expected.
 
