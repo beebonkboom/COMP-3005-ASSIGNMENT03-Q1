@@ -3,6 +3,8 @@
 **NAME:** BASERA FARAH ABDULLE  
 **STUDENT ID:** 101257784
 
+**LINK TO VIDEO DEMO:** https://youtu.be/MXFshjI2CCA
+
 ## INSTALL INSTRUCTIONS:
 - Download all files provided
 - Provided you have PostgreSQL, and pgAdmin, navigate to create a new database named 'Students' (exactly as such)
@@ -16,3 +18,4 @@
 ## TESTING INSTRUCTIONS:
 - To test the application, run the application in the IDE and navigate the user menu as desired.
 - Input all required user information for each option in the user menu.
+
